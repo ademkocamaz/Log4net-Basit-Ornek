@@ -1,6 +1,16 @@
 {
   "UserName": "Sony\\Adem",
-  "MessageObject": "This is my error"
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Parameters": []
+  }
 }
-System.Exception: Exception!
-   konum: Log4Net.Program.Main(String[] args) C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\Program.cs içinde: satýr 29
+{
+  "UserName": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Parameters": []
+  }
+}

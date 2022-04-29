@@ -59,7 +59,7 @@
   <ItemGroup>
     <Compile Include="FileLogger.cs" />
     <Compile Include="JsonLayout.cs" />
-    <Compile Include="LogAspect.cs" />
+    <Compile Include="LoggingAspect.cs" />
     <Compile Include="LogDetail.cs" />
     <Compile Include="LoggerService.cs" />
     <Compile Include="LogParameter.cs" />

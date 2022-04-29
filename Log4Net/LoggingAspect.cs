@@ -10,11 +10,11 @@ namespace Log4Net
 {
     [Serializable]
     
-    public class LogAspect: OnMethodBoundaryAspect
+    public class LoggingAspect: OnMethodBoundaryAspect
     {
         
         private LoggerService loggerService;
-        public LogAspect()
+        public LoggingAspect()
         {
             //loggerService = (LoggerService)Activator.CreateInstance(loggerType);
             loggerService = new FileLogger();
