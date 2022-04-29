@@ -20,10 +20,10 @@ namespace Log4Net
             TestClass testClass = new TestClass();
             testClass.TestMethod();
            //proje içindeki bin/debug klasörü altında log.txt dosyasına kayıt edilmektedir.
-            Console.WriteLine("Writing to \"log.txt\" in the same directory as the .exe file.\n");
-            log.Info("Info logging");//İnfo loglanması
-            log.Fatal("Info Fatal");    
-            log.Warn("Info Warning");
+            //Console.WriteLine("Writing to \"log.txt\" in the same directory as the .exe file.\n");
+            //log.Info("Info logging");//İnfo loglanması
+            //log.Fatal("Info Fatal");    
+            //log.Warn("Info Warning");
             try
             {
                 throw new Exception("Exception!");

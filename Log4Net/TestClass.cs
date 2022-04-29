@@ -8,7 +8,7 @@ namespace Log4Net
 {
     public class TestClass
     {
-        [LogAspect(typeof(FileLogger))]
+        [LogAspect]
         public void TestMethod()
         {
             Console.WriteLine("Test Method");
