@@ -13,8 +13,11 @@ namespace Log4Net
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger
                 (System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
+        
         static void Main(string[] args)
         {
+            TestClass testClass = new TestClass();
+            testClass.TestMethod();
            //proje içindeki bin/debug klasörü altında log.txt dosyasına kayıt edilmektedir.
             Console.WriteLine("Writing to \"log.txt\" in the same directory as the .exe file.\n");
             log.Info("Info logging");//İnfo loglanması
