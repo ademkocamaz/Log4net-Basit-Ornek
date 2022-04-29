@@ -12,9 +12,11 @@ namespace Log4Net
     public class TestClass : IDynamicMetaObjectProvider
     {
         [LoggingAspect]
-        public void TestMethod()
+        public void TestMethod(int a)
         {
-            Console.WriteLine("Test Method");
+
+            Console.WriteLine("Test Method a:"+a);
+           
         }
 
         public DynamicMetaObject GetMetaObject(Expression parameter)

@@ -15,7 +15,9 @@ namespace Log4Net
         {
             this.loggingEvent = loggingEvent;
         }
+        public DateTime DateTime => loggingEvent.TimeStamp;
         public string UserName => loggingEvent.UserName;
         public object MessageObject => loggingEvent.MessageObject;
+        
     }
 }

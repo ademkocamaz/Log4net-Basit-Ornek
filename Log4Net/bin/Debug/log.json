@@ -1,24 +1,17 @@
 {
+  "DateTime": "2022-04-29T20:15:24.2710816+03:00",
   "UserName": "Sony\\Adem",
   "MessageObject": {
     "FullName": "TestClass",
     "MethodName": "TestMethod",
-    "Parameters": []
-  }
-}
-{
-  "UserName": "Sony\\Adem",
-  "MessageObject": {
-    "FullName": "TestClass",
-    "MethodName": "TestMethod",
-    "Parameters": []
-  }
-}
-{
-  "UserName": "Sony\\Adem",
-  "MessageObject": {
-    "FullName": "TestClass",
-    "MethodName": "TestMethod",
-    "Parameters": []
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "Int32",
+        "Value": [
+          8
+        ]
+      }
+    ]
   }
 }
