@@ -31,3 +31,10 @@ C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\obj\Debug\Log4Net.exe
 C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\obj\Debug\Log4Net.pdb
 C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\PostSharp.dll
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\PostSharp.xml
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\Log4Net.pssym
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\bin\Debug\Log4Net.pspdb
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\obj\Debug\PostSharp\touch
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\obj\Debug\PostSharp\AdditionalBuildDependencies.txt
+C:\Users\Adem\Documents\GitHub\Log4net-Basit-Ornek\Log4Net\obj\Debug\PostSharp\postsharp.app.config
